@@ -1,0 +1,157 @@
+
+body{
+    min-height: 100vh;
+}
+.im{
+    height: 80px;
+    width: 90px;
+    margin-left: 20px;
+}
+.fs-1{
+    margin-top: -80px;
+    height: 80px;
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.navbar{
+    float: right;
+    margin-top: -50px;    
+}
+.nav-item:hover{
+    background-color: rgb(25, 142, 220);
+   }
+.mb-3{
+    width: 500px;
+    margin-left: 
+   
+}
+h3{
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 600;
+    padding-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container{
+    background-color: rgb(162, 243, 153);
+    width:550px;
+    border-radius: 15px;
+    box-sizing: border-box;
+    box-shadow:rgb(79, 168, 69) inset 2px 2px 12px 5px;
+    height: 100%;
+    z-index: -1;
+    }
+ .form-select{
+    width:500px;
+    }
+ .f3{
+    box-shadow: rgb(79, 168, 69) 3px 3px 5px;
+ }
+ .f4{
+    height: 80px;
+ }
+ .btn{
+    width: 100px;
+    font-weight: 500;
+    color: azure;
+}
+ 
+ .fs-2{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ .form-check{
+    padding-left:;
+ }
+ footer{
+    top:100%;
+    padding: 1% 10%;
+    background: #056670;
+    position: sticky;
+    color: aliceblue;
+ }
+ footer a{
+    color: aliceblue;
+    margin: 0 10px;
+ }
+footer a:hover{
+    color: darkorange;
+}
+.container2{
+    background-color: rgb(162, 243, 153);
+    width:50%;
+    border-radius: 15px;
+    box-sizing: border-box;
+    box-shadow:rgb(79, 168, 69) inset 2px 2px 12px 5px;
+    height: 100%;
+    z-index: -1;
+    margin-left: 25%;
+    padding-left: 20px;
+    padding-right: 20px;
+        }
+    h2{
+        text-align: center;
+        padding-top: 20px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+            nav4 {
+                float: left;
+                width: 25%;
+                height:200px;
+                background-color:  #ef8e8e;
+                padding: 20px;
+                position: absolute;
+               
+              }
+              nav1 {
+                float: left;
+                width: 25%;
+                height:200px;
+                background-color:  #ef8e8e;
+                padding: 20px;
+                position: absolute;
+                margin-left: 25%;
+               
+              }
+              nav2 {
+                float: left;
+                width: 25%;
+                height:200px;
+                background-color:  #ef8e8e;
+                padding: 20px;
+                position: absolute;
+                margin-left: 50%;
+              
+              }
+              nav3 {
+                float: left;
+                width: 25%;
+                height:200px;
+                background-color:  #ef8e8e;
+                padding: 20px;
+                position: absolute;
+                margin-left: 75%;
+                           b
+              }
+              nav3:hover{
+                background-color:rgb(144, 247, 247);
+              }
+              nav2:hover{
+                background-color:rgb(144, 247, 247);
+              }
+              nav1:hover{
+                background-color:rgb(144, 247, 247);
+              }
+              nav4:hover{
+                background-color:rgb(144, 247, 247);
+              }
+              li{
+                padding: 2px;
+                color:#080514
+                
+              }
+              .slide{
+                height: 530px;
+                
+            }
